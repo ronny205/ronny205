@@ -1,4 +1,3 @@
-# ronny-205
 # 💫 About Me:
 Hi 👋, I'm Rohan D Aiwale<br>A passionate Software developer from India<br>🔭 I’m currently a MCA student at Dr.DY.Patil School of MCA, Lohegaon.<br>🌱 I’m currently Exploring JavaScript, React, React-Native, MongoDB.<br>💬 Ask me about React, JS, React-Native, MongoDB.<br>👨‍💻 In my free time i solve problems on GeeksforGeeks.<br><br>
 
